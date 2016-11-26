@@ -1,2 +1,2 @@
 # dectohexphp
-convert dec data from wav2c to hex in c style 
+convert dec data to hex in c style using php code
